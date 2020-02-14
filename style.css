@@ -1,0 +1,39 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body { 
+	font: 75% georgia, sans-serif;
+	color: #555753; 
+	line-height: 1.5;
+	font-size: 16px;
+	background-color:beige;
+	}
+		h1 {
+			font-family: 'Domine', serif;
+			color:darkolivegreen;
+			font-size: 35px; 
+			background-color:rgba(192,192,192,0.3);
+		}
+		h2 {
+			color:darkolivegreen;
+			font-family: 'Domine', serif;
+			font-size: 25px;
+			text-decoration: underline; 
+		}
+		ul {
+			list-style-type: circle;
+		}
+		html {
+  background: url("resume-background.png") no-repeat center fixed;
+  background-size: cover;
+}
+a:link { 
+	font-weight: bold; 
+	text-decoration: none; 
+	color:lightsalmon;
+	}
+a:visited { 
+	font-weight: bold; 
+	text-decoration: none; 
+	color:darkslateblue;
+	}
